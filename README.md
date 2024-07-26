@@ -3,7 +3,7 @@
 This repository provides a streamlined approach to answer multiple-choice medical questions using the MEDMCQA dataset. We employ a simple Retrieval-Augmented Generation (RAG) method.
 
 
-## The order of the notebooks:
+## Notebooks Overview
 
 1. **`mlm_finetune_bert.ipynb`**:
     - Fine-tunes the BioClinical BERT model on the MEDMCQA dataset.
